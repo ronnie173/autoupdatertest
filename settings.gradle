@@ -1,0 +1,3 @@
+include ':autoupdater'
+include ':app'
+rootProject.name = "Auto Updater"
